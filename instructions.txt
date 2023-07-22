@@ -1,1 +1,4 @@
-Hi there
+Here's what to learn
+
+1) Git commands.
+2) Create a simple project in your favorite programming language and use github to host it.
